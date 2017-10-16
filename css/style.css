@@ -1,0 +1,49 @@
+.wrapper{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+fieldset{
+    margin-bottom: 10px;
+}
+
+form p{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.form-reg label{
+    display: inline-block;
+    width: 100px;
+}
+
+.form-reg div{
+    margin-bottom: 15px;
+}
+
+.login label{
+    display: inline-block;
+    width: 100px;
+}
+
+.login div{
+    margin-bottom: 15px;
+}
+
+.add{
+    display: inline-block;
+    padding: 7px;
+    text-decoration: none;
+    color: #ffffff;
+    background: rgba(19, 60, 30, 0.75);
+    border-radius: 3px;
+}
+
+.del{
+    display: inline-block;
+    padding: 7px;
+    text-decoration: none;
+    color: #ffffff;
+    background: #244358;
+    border-radius: 3px;
+}
